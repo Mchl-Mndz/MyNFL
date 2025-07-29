@@ -6,6 +6,7 @@ st.title("🏟️ Sports Dashboard Home")
 
 st.markdown("""
 Welcome! Choose an option below:
-- 👉 [Game Results](./1_Game_Results)
-- ⚽ [List of Teams](./2_Teams_List)
+- [Game Results](./Game_Results)
+- [List of Teams](./Teams_List)
+- [Interesting Query Tool](./Queries)
 """)
