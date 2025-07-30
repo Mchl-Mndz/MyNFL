@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from db import get_connection  # This version asks the user for password & db
+from db import get_connection  
 
 st.title("📊 Game Results")
 
